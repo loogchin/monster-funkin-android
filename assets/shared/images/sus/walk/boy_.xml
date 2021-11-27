@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boy ตูด.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 40000" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 40001" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 40002" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 40003" x="510" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 40004" x="510" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 40005" x="510" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 40006" x="0" y="510" width="510" height="510"/>
+	<SubTexture name="Symbol 40007" x="0" y="510" width="510" height="510"/>
+	<SubTexture name="Symbol 40008" x="0" y="510" width="510" height="510"/>
+	<SubTexture name="Symbol 40009" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 40010" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 40011" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 40012" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 40013" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 40014" x="0" y="0" width="510" height="510"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rock smash-1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 70000" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 70001" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 70002" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 70003" x="510" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 70004" x="510" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 70005" x="510" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 70006" x="0" y="510" width="510" height="510"/>
+	<SubTexture name="Symbol 70007" x="0" y="510" width="510" height="510"/>
+	<SubTexture name="Symbol 70008" x="0" y="510" width="510" height="510"/>
+</TextureAtlas>

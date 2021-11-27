@@ -1,0 +1,12 @@
+KE 1.5.4 Custom Build
+-curstep in chartingstate
+-notesplash off/on
+-healthbar color
+-press 1 to skip song
+-animation debug no debug mode
+-new animation debug by verex
+-add multicharacter :)
+-skip dialogue
+-dialogue no flip
+
+Kade-Engine-1.5.4 Custom Build by Nong vanila

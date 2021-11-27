@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="who is.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 50000" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 50001" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 50002" x="0" y="510" width="510" height="510"/>
+	<SubTexture name="Symbol 50003" x="0" y="510" width="510" height="510"/>
+	<SubTexture name="Symbol 50004" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 50005" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 50006" x="0" y="510" width="510" height="510"/>
+	<SubTexture name="Symbol 50007" x="0" y="510" width="510" height="510"/>
+</TextureAtlas>

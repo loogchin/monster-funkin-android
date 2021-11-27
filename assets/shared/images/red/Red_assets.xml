@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Red_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Red Sing Note DOWN0000" x="0" y="0" width="570" height="675" frameX="-3" frameY="0" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0001" x="0" y="0" width="570" height="675" frameX="-3" frameY="0" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0002" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0003" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0004" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0005" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0006" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0007" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0008" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0009" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0010" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0011" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0012" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0013" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0014" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note DOWN0015" x="570" y="0" width="587" height="659" frameX="0" frameY="-17" frameWidth="587" frameHeight="676"/>
+	<SubTexture name="Red Sing Note LEFT0000" x="1157" y="0" width="621" height="666" frameX="-9" frameY="-1" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0001" x="1157" y="0" width="621" height="666" frameX="-9" frameY="-1" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0002" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0003" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0004" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0005" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0006" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0007" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0008" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0009" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0010" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0011" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0012" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0013" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0014" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0015" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0016" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0017" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note LEFT0018" x="1778" y="0" width="612" height="667" frameX="0" frameY="0" frameWidth="630" frameHeight="667"/>
+	<SubTexture name="Red Sing Note RIGHT0000" x="2390" y="0" width="647" height="684" frameX="-4" frameY="0" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0001" x="2390" y="0" width="647" height="684" frameX="-4" frameY="0" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0002" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0003" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0004" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0005" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0006" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0007" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0008" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0009" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0010" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0011" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0012" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0013" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0014" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note RIGHT0015" x="3037" y="0" width="655" height="676" frameX="0" frameY="-7" frameWidth="655" frameHeight="684"/>
+	<SubTexture name="Red Sing Note UP0000" x="0" y="684" width="629" height="806" frameX="-1" frameY="0" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0001" x="0" y="684" width="629" height="806" frameX="-1" frameY="0" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0002" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0003" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0004" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0005" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0006" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0007" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0008" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0009" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0010" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0011" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0012" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0013" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0014" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0015" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0016" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0017" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0018" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0019" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0020" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0021" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0022" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0023" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0024" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0025" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0026" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0027" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0028" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0029" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0030" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0031" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0032" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0033" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0034" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0035" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0036" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0037" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0038" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0039" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0040" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0041" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0042" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0043" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0044" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0045" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0046" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0047" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0048" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0049" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0050" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0051" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0052" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0053" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0054" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0055" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0056" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0057" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0058" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red Sing Note UP0059" x="629" y="684" width="637" height="797" frameX="0" frameY="-8" frameWidth="637" frameHeight="806"/>
+	<SubTexture name="Red idle dance0000" x="1266" y="684" width="641" height="697" frameX="-19" frameY="-4" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0001" x="1266" y="684" width="641" height="697" frameX="-19" frameY="-4" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0002" x="1907" y="684" width="677" height="697" frameX="0" frameY="-4" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0003" x="1907" y="684" width="677" height="697" frameX="0" frameY="-4" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0004" x="2584" y="684" width="669" height="700" frameX="0" frameY="-1" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0005" x="2584" y="684" width="669" height="700" frameX="0" frameY="-1" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0006" x="3253" y="684" width="656" height="701" frameX="-4" frameY="0" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0007" x="3253" y="684" width="656" height="701" frameX="-4" frameY="0" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0008" x="0" y="1490" width="659" height="697" frameX="-14" frameY="-4" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0009" x="0" y="1490" width="659" height="697" frameX="-14" frameY="-4" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0010" x="659" y="1490" width="658" height="697" frameX="-21" frameY="-4" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0011" x="659" y="1490" width="658" height="697" frameX="-21" frameY="-4" frameWidth="679" frameHeight="701"/>
+	<SubTexture name="Red idle dance0012" x="659" y="1490" width="658" height="697" frameX="-21" frameY="-4" frameWidth="679" frameHeight="701"/>
+</TextureAtlas>

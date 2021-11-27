@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sus-1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 30000" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 30001" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 30002" x="0" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 30003" x="510" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 30004" x="510" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 30005" x="510" y="0" width="510" height="510"/>
+	<SubTexture name="Symbol 30006" x="0" y="510" width="510" height="510"/>
+	<SubTexture name="Symbol 30007" x="0" y="510" width="510" height="510"/>
+	<SubTexture name="Symbol 30008" x="0" y="510" width="510" height="510"/>
+</TextureAtlas>
